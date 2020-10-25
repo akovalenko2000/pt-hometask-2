@@ -1,4 +1,4 @@
 # pt-hometask-2
 
 Here is the Gatling hometask:
-.scala (code file) + .html (result file)
+.scala (code file) + .html (result file)  (added the full result folder)
